@@ -1,0 +1,17 @@
+{
+  "name": "tmm-gen-episodes",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "bin": {
+    "tmm-gen": "./tmm"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "babel": "^4.0.1",
+    "json5": "^0.4.0",
+    "xml2js": "^0.4.5"
+  }
+}
